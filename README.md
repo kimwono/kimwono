@@ -6,6 +6,7 @@
 **대표 프로젝트**
 
 - [TopoMotion](https://github.com/kimwono/TopoMotion-showcase) — 관절 구조가 다른 골격을 하나의 GNN 모델로 압축·복원 (처음 보는 골격 167개에서 회전 오차 0.29°), ONNX CPU 추론으로 Maya 플러그인에 배포
+- [TopoMotion-maya](https://github.com/kimwono/TopoMotion-maya) — 위 모델의 배포 코드: PyTorch 없이 Maya 안에서 ONNX Runtime으로 추론하는 플러그인, 헤드리스 배포 검사
 
 **기술**
 
